@@ -5,6 +5,10 @@ repo: mscistatus # The name of this repository
 sites:
   - name: MSCI-SERVER
     url: https://msci-server.sytes.net/login/
+  - name: FRIGOSUR
+    url: http://frigosur.sytes.net/login/
+  - name: ALFAGRO
+    url: http://alfagro-server.sytes.net/login/
 assignees:
   - dariomsci
 status-website:
