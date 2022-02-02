@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 61,
-    "timeWeek": 61,
-    "timeMonth": 61,
-    "timeYear": 61,
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 156,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -72,23 +72,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "MSCI-OFICINA2",
-    "url": "http://msci-oficina2.sytes.net/login/",
-    "icon": "https://favicons.githubusercontent.com/msci-oficina2.sytes.net",
-    "slug": "msci-oficina-2",
-    "status": "down",
-    "uptime": "9.39%",
-    "uptimeDay": "9.39%",
-    "uptimeWeek": "9.39%",
-    "uptimeMonth": "9.39%",
-    "uptimeYear": "9.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-02-02": 0
-    }
+    "name": "MSCI-REAL",
+    "url": "http://msci-server.sytes.net/login",
+    "icon": "https://favicons.githubusercontent.com/msci-server.sytes.net",
+    "slug": "msci-real",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 933,
+    "timeDay": 933,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
+    "dailyMinutesDown": {}
   }
 ]
