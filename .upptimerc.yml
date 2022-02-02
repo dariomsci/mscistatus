@@ -11,8 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: MSCI-OFICINA2
-    url: http://msci-oficina2.sytes.net/login/    
+  - name: MSCI-REAL
+    url: http://msci-server.sytes.net/login
 assignees:
   - dariomsci
 status-website:
@@ -21,7 +21,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /mscistatus
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: DARIO MATTIAZZI
+  name: MSCI -TEST >> DARIO MATTIAZZI
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
