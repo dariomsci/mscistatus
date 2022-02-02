@@ -3,15 +3,7 @@ owner: dariomsci # Your GitHub organization or username, where this repository l
 repo: mscistatus # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: MSCI-REAL
+  - name: MSCI-SERVER
     url: https://msci-server.sytes.net/login/
 assignees:
   - dariomsci
