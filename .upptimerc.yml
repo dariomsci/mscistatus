@@ -1,18 +1,18 @@
 # Change these first
 owner: dariomsci # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: mscistatus # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: MSCI-OFICINA2
-    url: http://msci-oficina2.sytes.net/login/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: MSCI-OFICINA2
+    url: http://msci-oficina2.sytes.net/login/    
 assignees:
   - dariomsci
 status-website:
