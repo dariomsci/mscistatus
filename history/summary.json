@@ -4,18 +4,19 @@
     "url": "https://msci-server.sytes.net/login/",
     "icon": "https://favicons.githubusercontent.com/msci-server.sytes.net",
     "slug": "msci-server",
-    "status": "up",
-    "uptime": "88.15%",
-    "uptimeDay": "85.47%",
+    "status": "down",
+    "uptime": "88.28%",
+    "uptimeDay": "85.46%",
     "uptimeWeek": "86.88%",
     "uptimeMonth": "84.62%",
-    "uptimeYear": "88.15%",
+    "uptimeYear": "88.28%",
     "time": 829,
     "timeDay": 836,
     "timeWeek": 779,
     "timeMonth": 817,
     "timeYear": 829,
     "dailyMinutesDown": {
+      "2022-06-13": 0,
       "2022-06-12": 209,
       "2022-06-11": 223,
       "2022-06-10": 224,
@@ -114,8 +115,7 @@
       "2022-03-03": 222,
       "2022-03-02": 212,
       "2022-03-01": 227,
-      "2022-02-28": 225,
-      "2022-02-27": 212
+      "2022-02-28": 225
     }
   },
   {
@@ -124,11 +124,11 @@
     "icon": "https://favicons.githubusercontent.com/frigosur.sytes.net",
     "slug": "frigosur",
     "status": "up",
-    "uptime": "87.72%",
+    "uptime": "87.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.60%",
-    "uptimeMonth": "81.96%",
-    "uptimeYear": "87.72%",
+    "uptimeMonth": "82.26%",
+    "uptimeYear": "87.73%",
     "time": 641,
     "timeDay": 466,
     "timeWeek": 559,
@@ -210,18 +210,19 @@
     "url": "http://alfagro-server.sytes.net/login/",
     "icon": "https://favicons.githubusercontent.com/alfagro-server.sytes.net",
     "slug": "alfagro",
-    "status": "up",
-    "uptime": "92.54%",
-    "uptimeDay": "89.45%",
+    "status": "down",
+    "uptime": "92.63%",
+    "uptimeDay": "99.34%",
     "uptimeWeek": "92.14%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "92.54%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "92.63%",
     "time": 483,
     "timeDay": 438,
     "timeWeek": 442,
     "timeMonth": 458,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2022-06-13": 0,
       "2022-06-12": 152,
       "2022-06-11": 112,
       "2022-06-10": 146,
@@ -320,8 +321,7 @@
       "2022-02-18": 140,
       "2022-02-17": 137,
       "2022-02-16": 134,
-      "2022-02-15": 139,
-      "2022-02-13": 145
+      "2022-02-15": 139
     }
   }
 ]
